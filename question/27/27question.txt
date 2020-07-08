@@ -1,4 +1,22 @@
 タイトル:
-
+テキスト編集
 
 問題:
+viコマンドを使用し、以下の内容のファイル"test1.txt"と"test2.txt"を作成せよ
+
+test1.txt
+aa
+bb
+cc
+dd
+
+test2.txt
+aa
+zz
+cc
+xx
+
+
+<column>
+vimtutorコマンドを使い、vimのチュートリアルを実践しよう。
+※英語の場合は「vimtutor ja」で日本語になる

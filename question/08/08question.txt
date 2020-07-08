@@ -20,3 +20,5 @@ none
 nobody
 nothing
 nowhere
+
+※注：ここで作成したファイルは以降の問題でも使用します。
