@@ -1,0 +1,5 @@
+タイトル:
+hello,world
+
+問題:
+コンソールに"hello,world"を出力せよ
