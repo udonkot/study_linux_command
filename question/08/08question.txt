@@ -1,4 +1,22 @@
 タイトル:
-
+ファイル作成
 
 問題:
+以下の名前のファイルをすべて作成せよ
+
+abcabc1
+abc2191
+Abc1
+Ab1
+ab2
+ab3
+ab345
+abc29
+abc9
+abc91
+abc21xyz
+abc2121
+none
+nobody
+nothing
+nowhere
